@@ -1,0 +1,9 @@
+origin: AAAAAAAA
+want: TAAGATAC
+miss: 7
+origin: AAAAAAAAAA
+want: ACGTACGTAA
+miss: 6
+origin: AAAAAAAAAA
+want: AAGTTACCAA
+miss: 12
